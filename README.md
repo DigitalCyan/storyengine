@@ -10,9 +10,13 @@ A simple text choice based story engine written in Rust. It allows for creating 
 6. Copy everything from the `example` directory into that directory too.
 
 # Rules
+In case you mess something up you will get nice feedback in form of rust's default errors in stdout. Here's a bunch of ground rules to follow in order to avoid that.
+
 * `config.json` must exist within the program's directory.
 * `config.json` has to have a field `game_name`. This is where you define which game will be loaded from `games` directory.
 * The game is a folder in `games` directory and consists of a `start.json` which is the entrypoint of the story and any number of other story nodes defined by other json files.
+
+I highly suggest follow the `How to get started` section and check out the example. It's really straight forward and probably more informative than this README.
 
 # Architecture of a story node
 This is how a story node should look like.
