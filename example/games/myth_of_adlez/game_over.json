@@ -1,0 +1,10 @@
+{
+    "title": "GAME OVER",
+    "text": "You fall before the darkness as it fills the sky covering vibrant green planes of Dragdim in blood.",
+    "choices": [
+        {
+            "text": "Start Over",
+            "to": "start"
+        }
+    ]
+}

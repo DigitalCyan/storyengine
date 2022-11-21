@@ -1,0 +1,10 @@
+{
+    "title": "VISIT DRAGDIM",
+    "text": "You visit Dragdim, a beautyful village by the Nabirra coast. The guards hail you.",
+    "choices": [
+        {
+            "text": "Hail the guards",
+            "to": "hail_the_guards"
+        }
+    ]
+}

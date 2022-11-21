@@ -1,0 +1,10 @@
+{
+    "title": "HAIL THE GUARDS",
+    "text": "You hail the guards. They take a closer look at you and recognize you as total scum. They load their repeaters and turn you into swiss cheese.",
+    "choices": [
+        {
+            "text": "Make pain sounds.",
+            "to": "game_over"
+        }
+    ]
+}

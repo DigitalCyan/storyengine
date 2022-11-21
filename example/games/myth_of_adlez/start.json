@@ -1,0 +1,14 @@
+{
+    "title": "MYTH OF ADLEZ",
+    "text": "Once upon a time in a land known as Dragdim lived a powerful wizard.",
+    "choices": [
+        {
+            "text": "Visit Dragdim",
+            "to": "visit_dragdim"
+        },
+        {
+            "text": "Jump off a cliff",
+            "to": "game_over"
+        }
+    ]
+}
